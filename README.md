@@ -3,6 +3,21 @@
 #
  Main Page.
  #
- ![alt text](https://github.com/thiva99/GroceryStore/blob/main/Images/s1.png)  
+ ![alt text](https://github.com/thiva99/E-Learning/blob/main/wireframes/s1.png)  
  #
- Item Search Form.
+ Login Page.
+ #
+ ![alt text](https://github.com/thiva99/E-Learning/blob/main/wireframes/s2.png)  
+ #
+ Reg Page.
+ #
+ ![alt text](https://github.com/thiva99/E-Learning/blob/main/wireframes/s3.png)  
+ #
+ Home Page.
+ #
+ ![alt text](https://github.com/thiva99/E-Learning/blob/main/wireframes/s4.png)  
+ #
+ Feedback.
+ #
+ ![alt text](https://github.com/thiva99/E-Learning/blob/main/wireframes/s5.png)  
+ #
